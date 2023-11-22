@@ -14,3 +14,9 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+tel-far30tm.click
+fotbaldasti.ir
+dotcompc.ir
+discord.com
+iranhost.com
+cloudflare-dns.com
